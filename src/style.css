@@ -1,0 +1,17 @@
+.container {
+  width: 400px;
+  display: flex;
+  margin: 0 auto;
+}
+.widget {
+  margin: 0 auto;
+  display: inline-block;
+  text-align: center;
+  width: auto;
+  padding: 0 10px;
+  border: solid black;
+  border-radius: 10px;
+}
+.widget__temperature {
+  font-size: 32px;
+}
